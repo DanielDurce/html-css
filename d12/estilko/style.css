@@ -6,6 +6,8 @@
 html, body {
     min-height: 100vh;
     background-color: darkgray;
+    font-family: cursive;
+    
 }
 header {
     background-color: black;
@@ -16,9 +18,17 @@ header {
 header > h1 {
     padding-top: 20px;
     font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5vw;
+    
+
+    
+
 }
 header > p {
     padding-bottom: 20px;
+    font-family: cursive
+
 }
 a {
     color:  white;
@@ -34,6 +44,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-size: 3vw;
 
 }
 
@@ -50,7 +61,8 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+    display: inline-block;
+    padding: 8px;
     background-color: black;
 }
 
