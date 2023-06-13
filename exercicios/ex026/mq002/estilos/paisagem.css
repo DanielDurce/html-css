@@ -1,1 +1,10 @@
 /*configurações deitado*/
+
+body {
+    background-image: url(../paisagem01.jpg);
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:contain;  
+}
+

@@ -1,1 +1,9 @@
 /*configurações em pé */
+
+body {
+    background-image: url(../retrato01.jpg);
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: auto;  
+}
