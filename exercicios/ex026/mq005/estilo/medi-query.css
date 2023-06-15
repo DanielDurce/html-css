@@ -1,0 +1,33 @@
+@media screen and (min-width: 768px){
+
+    i#buruer {
+        display: none; 
+    }
+
+
+    menu {
+        display: block;
+    }
+
+}
+
+menu > ul > li {
+    display: inline-block;
+}
+
+    main {
+        width:90vw;
+        background-color: white;
+        margin: auto;
+        margin-top: 10px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    article > p { 
+        text-align: justify;
+        margin-bottom: 20px;
+        text-indent: 20px;
+    }
+    
+
+    
